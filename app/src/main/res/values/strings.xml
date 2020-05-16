@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RestroFinder</string>
+    <string name="menu_logout">Logout</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="helpline">All our agents are busy now. Kindly contact helpline +112233</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="nodata">Sorry ! No Data Found...</string>
+    <string name="nointernet">No internet connection available</string>
+    <string name="what_to_eat">What would like to eat ?</string>
+    <string name="enter_name">Enter food or Restaurant</string>
+    <string name="popular_restro">Restaurant Type</string>
+    <string name="all_restro">All Nearby Restaurants</string>
+    <string name="to_be_added">Functionality to be added</string>
+    <string name="notification">No new notification</string>
+    <string name="emptyList">No restaurants are currently servicing.... Try again later!!</string>
+</resources>
